@@ -3,4 +3,4 @@
 Sitio web estático desarrollado para el curso de Desarrollo Web.
 
 ## Deploy
-[https://zingy-heliotrope-b853ae.netlify.app](https://zingy-heliotrope-b853ae.netlify.app)
+[https://lohana-entrenamientos.netlify.app](https://lohana-entrenamientos.netlify.app)
